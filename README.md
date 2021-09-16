@@ -3,7 +3,7 @@
 *# GURUCHARAN PARSA*
 * I love playing games
 * I like to learn new things and cultures
-* I am a moviebuzz
+* I am a movie buff
 
 ## **TECHNICAL BACKGROUND**
 I have completed my UG in computer science in which I have covered basics of python, java, data structures, c, c++
