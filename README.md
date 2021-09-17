@@ -1,7 +1,7 @@
 # CIS641-HW2-parsa
 
 *# GURUCHARAN PARSA*
-* I love playing games
+* I love playing videogames
 * I like to learn new things and cultures
 * I am a movie buff
 
