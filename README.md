@@ -1,7 +1,7 @@
 # CIS641-HW2-parsa
 
 # **GURUCHARAN PARSA** #
-* I love playing videogames🐱‍🏍:video_game:
+* I love playing videogames 🐱‍🏍 🎮
 * I like to learn new things and cultures
 * I am a movie buff
 
@@ -12,5 +12,5 @@ I have completed my UG in computer science in which I have covered basics of pyt
  
 [GitHub] (https://github.com/gonehitesh/GVSU-CIS641-Alpha)
 
-### *Project Description* :speech_balloon:
+### *Project Description*  📝
 *** I have developed a project on e-commerce website django
