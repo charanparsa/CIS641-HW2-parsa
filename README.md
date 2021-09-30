@@ -13,4 +13,4 @@ I have completed my UG in computer science in which I have covered basics of pyt
 [GitHub] (https://github.com/gonehitesh/GVSU-CIS641-Alpha)
 
 ### *Project Description*  📝
-*** I have developed a project on e-commerce website django ***
+***I have developed a project on e-commerce website django***
