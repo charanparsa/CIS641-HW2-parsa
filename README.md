@@ -15,4 +15,4 @@ I have completed my UG in computer science in which I have covered basics of pyt
 ### *Project Description*  📝
 ***I have developed a project on e-commerce website using django framework which is used to buy and sell products, also used for making transactions between consumer and retailer.
   Made it user friendly so that everyone can use it. My project made out the need for demand and supply of products and services. A button like "Add to cart" has been created       below the product so that consumer can list out all the items and checks the price then a "buy now" is provied under the product if he wants to buy the product in the cart.
-  consumers can pay using different methods which is shown later after clicking the "buy now" button, different methods of payment like COD,credit and debit cards, payments can be   done as per the consumers convenience. ***
+  consumers can pay using different methods which is shown later after clicking the "buy now" button, different methods of payment like COD,credit and debit cards, payments can be   done as per the consumers convenience***
